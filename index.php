@@ -26,6 +26,9 @@
 
 <body>
 
+  <?php
+    include_once 'connectDB.php';
+   ?>
     <!-- Navigation -->
     <nav class="navbar navbar-default navbar-custom navbar-fixed-top">
         <div class="container-fluid">
